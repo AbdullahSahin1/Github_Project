@@ -47,3 +47,10 @@ function search(e){
   
     e.preventDefault();
 }
+linkedin.addEventListener("click",e=>{
+    window.open("https://www.linkedin.com/in/abdullahsahin111/ _blank")
+})
+
+githubUrl.addEventListener("click",e=>{
+    window.open("https://github.com/AbdullahSahin1")
+})
