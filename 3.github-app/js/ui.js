@@ -36,7 +36,6 @@ class UI {
             <img id="profilImg" class="mb-3" src="${user.avatar_url}" width="200" height="200">
             <hr style="border:1px solid lightgrey; width:200px">
             <span>${user.name}</span>
-            <span>Yazılım Geliştirici</span>
         </div>
     </div>
 
